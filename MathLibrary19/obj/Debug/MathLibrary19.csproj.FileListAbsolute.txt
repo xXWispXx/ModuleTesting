@@ -1,0 +1,6 @@
+C:\Users\IMac5\source\repos\LibLesson19\MathLibrary19\bin\Debug\MathLibrary19.dll
+C:\Users\IMac5\source\repos\LibLesson19\MathLibrary19\bin\Debug\MathLibrary19.pdb
+C:\Users\IMac5\source\repos\LibLesson19\MathLibrary19\obj\Debug\MathLibrary19.csproj.AssemblyReference.cache
+C:\Users\IMac5\source\repos\LibLesson19\MathLibrary19\obj\Debug\MathLibrary19.csproj.CoreCompileInputs.cache
+C:\Users\IMac5\source\repos\LibLesson19\MathLibrary19\obj\Debug\MathLibrary19.dll
+C:\Users\IMac5\source\repos\LibLesson19\MathLibrary19\obj\Debug\MathLibrary19.pdb
