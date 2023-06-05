@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibLesson19/1.0.0": {
+        "dependencies": {
+          "MathLibrary19": "1.0.0"
+        },
+        "runtime": {
+          "LibLesson19.dll": {}
+        }
+      },
+      "MathLibrary19/1.0.0": {
+        "runtime": {
+          "MathLibrary19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibLesson19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathLibrary19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
